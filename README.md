@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Satheesh P</h1>
 
-<h3 align="center">Sales Manager | Business Development Specialist</h3>
+<h3 align="center">Sales & Marketing Executive</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Sales+Manager;Business+Development+Specialist;Lead+Generation+Expert;MBA+Graduate;Digital+Marketing+Professional" />
