@@ -20,7 +20,7 @@
 ## 📍 About Me
 
 * MBA Graduate (Marketing & HR)
-* Sales Manager & Business Development Specialist
+* Sales & Marketing Executive
 * Based in Nagercoil, Tamil Nadu, India
 * 4+ Years Experience in Sales & Marketing
 
