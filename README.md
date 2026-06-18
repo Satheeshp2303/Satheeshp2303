@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Satheesh P</h1>
 
 <h3 align="center">Sales Manager | Business Development Specialist</h3>
