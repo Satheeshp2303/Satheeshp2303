@@ -4,118 +4,165 @@
 
 <h1 align="center">Hi 👋, I'm Satheesh P</h1>
 
-<h3 align="center">Sales & Marketing Executive</h3>
+<h3 align="center">Sales Manager | Business Development Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Sales+%26+Marketing+Executive;Business+Development+Professional;Lead+Generation+Specialist;MBA+Graduate+(Marketing+%26+HR);Digital+Marketing+Professional" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Sales+Manager;Business+Development+Specialist;Lead+Generation+Expert;MBA+Graduate;Sales+%26+Marketing+Professional" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Nagercoil%2C%20Tamil%20Nadu-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MBA-Marketing%20%26%20HR-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sales-Marketing-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Business-Development-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Lead-Generation-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MBA-Graduate-red?style=for-the-badge">
 </p>
 
 ---
 
-# 👨‍💼 Professional Summary
+# 👨‍💼 Profile
 
-Results-driven Sales & Marketing Executive with experience in Business Development, Franchise Sales, Lead Generation, Customer Relationship Management and Digital Marketing.
+Results-driven Sales & Marketing Executive with 4+ years of experience in business development, lead generation, franchise sales, customer acquisition, and digital marketing.
 
-Focused on creating business growth, developing customer relationships, generating leads and increasing sales performance.
+Proven track record of generating qualified leads, building client relationships, increasing brand visibility, and driving business growth.
+
+MBA graduate with strong communication, negotiation, and relationship management skills.
+
+---
+
+# 📞 Contact
+
+📱 +91 8681002884
+
+📧 Satheeshp2303@gmail.com
+
+📍 Nagercoil, Tamil Nadu, India
+
+💼 LinkedIn: www.linkedin.com/in/satheesh-p
 
 ---
 
 # 💼 Work Experience
 
-## Sales & Marketing Executive
-### Sea Trade Maldives Pvt Ltd
+## First Step Franchise, India
+### Sales & Digital Marketing Specialist
+📅 Nov 2024 – Jun 2026
+
+✅ Generated 500+ qualified franchise leads through digital marketing campaigns
+
+✅ Converted 45+ leads into franchise partnerships with an 85% closure rate
+
+✅ Managed Meta Ads campaigns and achieved 8,000+ monthly social media impressions
+
+---
+
+## Sea Trade, Maldives
+### Sales & Marketing Executive
 📅 Jun 2024 – Oct 2024
 
-- Resort procurement sales
-- Agricultural product marketing
-- Lead generation
-- Social media management
-- Customer relationship management
+✅ Managed Facebook, Instagram, and WhatsApp marketing campaigns
+
+✅ Generated 100+ customer inquiries through targeted promotional activities
+
+✅ Coordinated with 20+ resort and business clients to support sales growth
 
 ---
 
-## Business Development Executive
-### First Step Franchise Pvt Ltd
-📅 Apr 2023 – May 2024
+## Annai Guest House, India
+### Sales & Marketing Executive
+📅 Aug 2023 – May 2024
 
-- Franchise sales
-- Business development
-- Channel partner acquisition
-- Client meetings
-- Sales presentations
+✅ Increased customer inquiries by 40% through digital marketing initiatives
+
+✅ Established partnerships with 50+ local vendors and tourism businesses
+
+✅ Maintained 95%+ customer satisfaction through effective guest engagement
 
 ---
 
-## Salon Manager
-### Naturals Unisex Salon
-📅 2025 – Present
+## Annai Guest House, India
+### Marketing Executive
+📅 Jun 2020 – Sep 2021
 
-- Customer relationship management
-- Team coordination
-- Business operations
-- Marketing activities
+✅ Created 60+ promotional campaigns across social media platforms
+
+✅ Generated 100+ booking inquiries through marketing and partnership activities
+
+✅ Converted 50+ partnership leads into guest bookings and accommodations
 
 ---
 
 # 🎓 Education
 
-| Degree | Institution |
-|----------|----------|
-| MBA (Marketing & HR) | Amrita College of Engineering & Technology |
-| BBA | St. Hindu College |
+| Degree | Institution | Year |
+|----------|----------|----------|
+| MBA (Marketing & HR) | Anna University | 2021 - 2023 |
+| BBA | MS University | 2017 - 2020 |
 
 ---
 
-# 🚀 Core Skills
+# 🏆 Certification
+
+### JClick Solutions
+Social Media Marketing Certification (2025)
+
+---
+
+# 🚀 Skills
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Sales-Expert-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Marketing-Professional-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Lead%20Generation-Expert-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Business%20Development-Professional-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sales-Marketing-blue?style=for-the-badge">
 
-</p>
+<img src="https://img.shields.io/badge/Business-Development-success?style=for-the-badge">
 
-### Professional Skills
+<img src="https://img.shields.io/badge/Lead-Generation-orange?style=for-the-badge">
 
-- Sales Management
-- Lead Generation
-- Business Development
-- Franchise Sales
-- Customer Relationship Management
-- Digital Marketing
-- Social Media Marketing
-- Canva Design
-- Meta Ads
-- Microsoft Office
+<img src="https://img.shields.io/badge/Franchise-Sales-red?style=for-the-badge">
 
----
+<img src="https://img.shields.io/badge/Social-Media-Marketing-purple?style=for-the-badge">
 
-# 🌐 Connect With Me
+<img src="https://img.shields.io/badge/Meta-Ads-blueviolet?style=for-the-badge">
 
-📧 Email: Satheeshp2303@gmail.com
+<img src="https://img.shields.io/badge/Market-Research-green?style=for-the-badge">
 
-💼 LinkedIn: https://linkedin.com/in/satheesh-p
+<img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge">
 
-📍 Location: Nagercoil, Tamil Nadu, India
+<img src="https://img.shields.io/badge/Microsoft-Office-orange?style=for-the-badge">
 
----
+<img src="https://img.shields.io/badge/CRM-Management-red?style=for-the-badge">
 
-# 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satheeshp2303&label=Profile%20Views&color=blue&style=for-the-badge">
 </p>
 
 ---
 
+# 🌐 Languages
+
+🇮🇳 Tamil (Native)
+
+🇬🇧 English (Professional)
+
+🇮🇳 Malayalam (Professional)
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-⭐ Thank you for visiting my profile ⭐
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satheeshp2303&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satheeshp2303&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Satheeshp2303&label=Profile+Views&color=blue&style=for-the-badge">
+
+</p>
+
+<h3 align="center">
+⭐ Thank You For Visiting My Profile ⭐
+</h3>
