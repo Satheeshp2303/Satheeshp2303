@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Satheesh P 👋
 
-<!--
-**Satheeshp2303/Satheeshp2303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sales Manager | Business Development Specialist
 
-Here are some ideas to get you started:
+🎓 MBA Graduate (Marketing & HR)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Nagercoil, Tamil Nadu, India
+
+💼 4+ Years Experience in Sales & Marketing
+
+📈 Lead Generation | Franchise Sales | Business Development
+
+📧 [Satheeshp2303@gmail.com](mailto:Satheeshp2303@gmail.com)
+
+🌐 LinkedIn: [www.linkedin.com/in/satheesh-p](http://www.linkedin.com/in/satheesh-p)
+
+---
+
+### Skills
+
+* Sales & Marketing
+* Business Development
+* Lead Generation
+* Franchise Sales
+* Social Media Marketing
+* Meta Ads
+* Canva Design
+* Market Research
+* CRM
+* Microsoft Office
+
+---
+
+### Education
+
+🎓 MBA – Anna University (2021–2023)
+
+🎓 BBA – MS University (2017–2020)
+
+---
+
+### Languages
+
+* Tamil
+* English
+* Malayalam
