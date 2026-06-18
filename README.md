@@ -137,11 +137,11 @@ Social Media Marketing Certification (2025)
 
 # 🌐 Languages
 
-🇮🇳 Tamil (Native)
+ Tamil (Native)
 
-🇬🇧 English (Professional)
+ English (Professional)
 
-🇮🇳 Malayalam (Professional)
+ Malayalam (Professional)
 
 ---
 
